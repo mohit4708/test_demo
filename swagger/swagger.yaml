@@ -2,7 +2,7 @@
   "openapi" : "3.0.0",
   "info" : {
     "title" : "",
-    "description" : "",
+    "description" : "this OpenAPI spec is going to be synced in Github swagger folder of repository name test_demo",
     "version" : "1.0.1"
   },
   "servers" : [ {
